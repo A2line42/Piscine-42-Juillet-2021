@@ -1,0 +1,6 @@
+ Credentials cache: API:ED46615F-FB11-4F57-8F10-0DE5C9860378
+        Principal: amichalo@42.FR
+
+  Issued                Expires               Principal
+Jun 29 11:45:00 2021  Jul  6 11:45:00 2021  krbtgt/42.FR@42.FR
+e2r3p12% 
